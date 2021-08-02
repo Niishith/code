@@ -11,3 +11,5 @@ int main()    // only int type ex:-2,3,5//
     
     return 0;
 }
+
+//note:- if the given number is divided by 2  and get reminder as 0 then it is even number else it is odd//
