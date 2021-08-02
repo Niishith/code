@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main() {
-    int num;
+int main()    // only int type ex:-2,3,5//
+    {
+        int num;
     printf("Enter an integer: ");
     scanf("%d", &num);
     if(num % 2 == 0)
